@@ -1,4 +1,9 @@
-# Implementation of Kalman Filter
+### EX NO: 04
+
+### DATE: 27/04/2023 
+
+
+# <br/><p align = "center"> Implementation of Kalman Filter </p>
 
 ## AIM
 To Construct a Python Code to implement the Kalman filter to predict the position and velocity of an object.
@@ -69,5 +74,5 @@ plt.show()
 ![Screenshot 2023-04-13 002802](https://user-images.githubusercontent.com/78194419/231558417-3c959a52-4191-46af-a9c6-bfe3192e88b9.jpg)
 
 
-## RESULT
+## <br><br><br><br><br>RESULT
 Thus, Kalman filter to predict the position and velocity of an object is implemented successfully.
